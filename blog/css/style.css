@@ -1,0 +1,158 @@
+body {
+	font: 15px/1.5 "Crimson Text", "Roboto Mono", "Playfair";
+	/* Shortcut of:
+	font-family: "Crimson Text", "Roboto Mono", "Playfair";
+	font-size: 15px;
+	line-height: 1.5;*/
+}
+
+/* Global */
+
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+/* Header*/
+
+header {
+	background: url(../img/bromo2.jpeg) no-repeat 0 -1200px;
+	color: #ffffff;
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom: 3px solid black;
+}
+
+header a {
+	color: black;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px;
+}
+
+header li {
+	float: left;
+	display: inline;
+	padding: 0 30px 0 30px;
+}
+
+header #branding {
+	float: left;
+}
+
+header #branding h1 {
+	margin: 0;
+}
+
+header nav {
+	float: right;
+	margin-top: 10px;
+}
+header h1 {
+	font-size: 36px;
+}
+header h1 #k {
+	color: black;
+}
+header h1 #b {
+	color: grey;
+}
+header h1 #lt {
+	color: white;
+}
+header h1 #gt {
+	color: black;
+}
+header a:hover {
+	color:#8870ff;
+	font-weight: bold;
+}
+
+/* Intro */
+
+#intro {
+	min-height: 300px;
+	background: url("../img/bromo.jpg") no-repeat 0 -1300px;
+	text-align: center;
+	border-bottom: 3px solid black;
+}
+
+#intro h1 {
+	margin-top: 100px;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+
+#intro p {
+	font-size: 15px;
+}
+#intro img {
+	width: 215px;
+	height: 275px;
+	border: 3px solid #c48ee6;
+}
+
+/* Boxes*/
+#boxes {
+	padding-top: 20px;
+	border-bottom: 3px solid black;
+	background: url(../img/bromo2.jpeg) no-repeat 0 -1100px;
+}
+#boxes .box {
+	float: left;
+	width: 30%;
+	padding: 10px;
+	text-align: center;
+}
+.box img {
+	width: 90px;
+}
+
+/*Updates*/
+
+#updates {
+	padding: 15px;
+	color: black;
+	border-bottom: 3px solid black;
+	background: url(../img/bromo2.jpeg) no-repeat 0 -1600px;
+}
+#updates h1 {
+	float: left;
+}
+#updates form {
+	float: right;
+	margin-top: 20px;
+}
+#updates input[type="email"] {
+	padding: 4px;
+	height: 25px;
+	width: 250px;
+}
+.button1{
+	height: 38px;
+	background: #a069c2;
+	border: none;
+	padding-left: 20px;
+	padding-right: 20px;
+	color: white;
+}
+
+/* Main -- About */
+#main {
+	border-bottom: 3px solid black;
+	background: url("../img/bromo2.jpeg") no-repeat 0 -1000px;
+
+}
+
+/* Footer */
+footer {
+	text-align: center;
+	padding: 20px;
+	/*margin-top: 20px;*/
+	background: url("../img/bromo.jpg") no-repeat 0 -1000px
+}
