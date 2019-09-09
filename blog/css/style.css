@@ -24,6 +24,7 @@ header {
 	background: url(../img/bromo2.jpeg) no-repeat 0 -1200px;
 	color: #ffffff;
 	padding-top: 30px;
+	padding-bottom: 30px;
 	min-height: 70px;
 	border-bottom: 3px solid black;
 }
@@ -41,7 +42,7 @@ header li {
 }
 
 header ul {
-	padding: 0 150px 0 0;
+	padding: 0 200px 0 0;
 } 
 
  header #branding {
