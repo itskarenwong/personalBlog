@@ -24,7 +24,7 @@ header {
 	background: url(../img/bromo2.jpeg) no-repeat 0 -1200px;
 	color: #ffffff;
 	padding-top: 30px;
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 	min-height: 70px;
 	border-bottom: 3px solid black;
 }
@@ -36,14 +36,14 @@ header a {
 	font-size: 16px;
 }
  
+header ul {
+	padding: 0 175px 0 0;
+} 
+
 header li {
 	display: inline;
 	padding: 0 30px 0 30px;
 }
-
-header ul {
-	padding: 0 200px 0 0;
-} 
 
  header #branding {
 	 text-align: center;
