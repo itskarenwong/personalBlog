@@ -36,7 +36,7 @@ header a {
 }
 
 header li {
-	/* float: left; */
+	text-align: center;
 	display: inline;
 	padding: 0 30px 0 30px;
 }
