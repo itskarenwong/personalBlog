@@ -1,4 +1,6 @@
-body {
+body,html {
+	height: auto;
+	width: auto;
 	font: 15px/1.5 "Crimson Text", "Roboto Mono", "Playfair";
 	/* Shortcut of:
 	font-family: "Crimson Text", "Roboto Mono", "Playfair";
@@ -9,7 +11,7 @@ body {
 /* Global */
 
 .container {
-	width: 90%;
+	width: 80%;
 	margin: auto;
 	overflow: hidden;
 }
