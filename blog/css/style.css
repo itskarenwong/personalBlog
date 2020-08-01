@@ -162,3 +162,10 @@ footer {
 	/*margin-top: 20px;*/
 	background: url("../img/bromo.jpg") no-repeat 0 -1000px
 }
+
+/* Art */
+img{
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
