@@ -172,7 +172,7 @@ footer {
 #art img{
     width: 30%;
     float: left;
-	margin: 1.55%;
+	margin: 1.5%;
 }
 
 #art h1{
@@ -180,9 +180,9 @@ footer {
 }
 
 #art img {
-	border: 2px solid black;
+	border: 1.5px solid black;
 }
 
 #art img:hover{
-	border: 2px solid #a069c2;
+	border: 1.5px solid #a069c2;
 }
