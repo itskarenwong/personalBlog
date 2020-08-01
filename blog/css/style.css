@@ -1,6 +1,4 @@
-body,html {
-	height: auto;
-	width: auto;
+body {
 	font: 15px/1.5 "Crimson Text", "Roboto Mono", "Playfair";
 	/* Shortcut of:
 	font-family: "Crimson Text", "Roboto Mono", "Playfair";
@@ -99,8 +97,8 @@ header a:hover {
 	font-size: 15px;
 }
 #intro img {
-	width: 275px;
-	height: 275px;
+	width: 50%;
+	height: 50%;
 	border: 3px solid #c48ee6;
 }
 
