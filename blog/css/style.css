@@ -179,10 +179,10 @@ footer {
 	text-align: center;
 }
 
-#art a {
+#art img {
 	border: 3px black;
 }
 
-#art a:hover{
+#art img:hover{
 	border: 3px #a069c2;
 }
