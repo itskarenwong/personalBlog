@@ -1,5 +1,5 @@
 body {
-	font: 15px/1.5 "Crimson Text", "Roboto Mono", "Playfair";
+	font: 15px/1.5 "Crimson Text", "Roboto Mono", "Playfair" !important;
 	/* Shortcut of:
 	font-family: "Crimson Text", "Roboto Mono", "Playfair";
 	font-size: 15px;
