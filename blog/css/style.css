@@ -23,9 +23,9 @@ ul {
 header {
 	background: url(../img/bromo2.jpeg) no-repeat 0 -1200px;
 	color: #ffffff;
-	padding-top: 30px;
-	padding-bottom: 20px;
-	min-height: 70px;
+	padding-top: 30%;
+	padding-bottom: 20%;
+	min-height: 40%;
 	border-bottom: 3px solid black;
 }
 
