@@ -128,6 +128,7 @@ header a:hover {
 }
 #updates h1 {
 	float: left;
+	font-size: 150%;
 }
 #updates form {
 	float: right;
