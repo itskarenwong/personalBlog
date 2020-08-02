@@ -24,8 +24,8 @@ ul {
 header {
 	background: url(../img/bromo2.jpeg) no-repeat 0 -1200px;
 	color: #ffffff;
-	padding-top: 5%;
-	padding-bottom: 5%;
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
 	min-height: 10%;
 	border-bottom: 3px solid black;
 }
@@ -38,7 +38,7 @@ header a {
 }
  
 header ul {
-	padding: 0 250px 0 0;
+	padding: 0 260px 0 0;
 } 
 
 header li {
@@ -62,6 +62,7 @@ header nav {
 header h1 {
 	font-size: 150% !important;
 	font-weight: bold;
+	padding-left: 5px;
 }
 header h1 #k {
 	color: black;
